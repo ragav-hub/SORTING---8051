@@ -45,13 +45,15 @@ END
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
-<img width="948" height="432" alt="image" src="https://github.com/user-attachments/assets/17ccfce4-3ff2-4653-94e0-43814cb476b6" />
+<img width="1423" height="206" alt="image" src="https://github.com/user-attachments/assets/a76c3861-a124-4b20-9f38-e6a66ed7fd6f" />
+
 
 <BR>
 <BR>
 <BR>
 After execution: D:0x40H:
-<img width="956" height="435" alt="image" src="https://github.com/user-attachments/assets/9411f314-8584-4364-b58f-4195f4083537" />
+<img width="1428" height="210" alt="image" src="https://github.com/user-attachments/assets/a4bb8212-bd12-489e-b860-056b50d9ce77" />
+
 <BR>
 <BR>
 <BR>
@@ -96,7 +98,8 @@ END
 
 **Before execution:**
 D:0x40H:
-<img width="1232" height="357" alt="image" src="https://github.com/user-attachments/assets/5fa40511-cd09-482e-bf14-f2c095ae665f" />
+<img width="949" height="432" alt="Screenshot 2025-11-11 195625" src="https://github.com/user-attachments/assets/0d308007-ffee-4887-a836-06a774f44b94" />
+
 
 <BR>
 <BR>
@@ -104,7 +107,8 @@ D:0x40H:
 <BR>
 After execution:
 D:0x40H:
-<img width="1226" height="354" alt="image" src="https://github.com/user-attachments/assets/9d607523-1aa8-49bd-84a6-3b095140f23f" />
+<img width="956" height="435" alt="Screenshot 2025-11-11 195721" src="https://github.com/user-attachments/assets/481c9e2e-0fc2-4e56-83db-9c7aeb1c3a39" />
+
 
 <BR>
 <BR>
