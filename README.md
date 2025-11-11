@@ -99,8 +99,6 @@ END
 **Before execution:**
 D:0x40H:
 <img width="949" height="432" alt="Screenshot 2025-11-11 195625" src="https://github.com/user-attachments/assets/0d308007-ffee-4887-a836-06a774f44b94" />
-
-
 <BR>
 <BR>
 <BR>
@@ -108,12 +106,9 @@ D:0x40H:
 After execution:
 D:0x40H:
 <img width="956" height="435" alt="Screenshot 2025-11-11 195721" src="https://github.com/user-attachments/assets/481c9e2e-0fc2-4e56-83db-9c7aeb1c3a39" />
-
-
 <BR>
 <BR>
 <BR>
 **Result:**
-
 Thus the sorting of given data was done using 8051 keil and shown the output.
 
